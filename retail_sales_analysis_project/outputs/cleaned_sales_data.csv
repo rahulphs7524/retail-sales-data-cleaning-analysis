@@ -1,0 +1,75 @@
+Order_ID,Customer_Name,City,State,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Order_Date,Payment_Type,Total_Sales,Order_Value_Category,Order_Year,Order_Month
+ORD-0001,Priya Verma,Pune,Maharashtra,Electronics,Headphones,4.0,2200.0,0.0,2025-03-13,Upi,8800.0,High,2025,3
+ORD-0002,Vikram Rao,Kolkata,West Bengal,Electronics,Wireless Mouse,2.0,650.0,0.0,2025-04-30,Upi,1300.0,Low,2025,4
+ORD-0003,Aarav Sharma,Bengaluru,Karnataka,Accessories,Usb Cable,8.0,300.0,150.0,2025-05-23,Card,2250.0,Medium,2025,5
+ORD-0004,Priya Verma,Kolkata,West Bengal,Office Supplies,Office Chair,3.0,6200.0,0.0,2025-06-22,Upi,18600.0,High,2025,6
+ORD-0005,Aarav Sharma,Kolkata,West Bengal,Electronics,Headphones,6.0,2200.0,150.0,2025-05-16,Net Banking,13050.0,High,2025,5
+ORD-0006,Ananya Das,Pune,Maharashtra,Accessories,Laptop Sleeve,5.0,850.0,200.0,2025-11-13,Card,4050.0,Medium,2025,11
+ORD-0008,Neha Singh,Hyderabad,Telangana,Accessories,Phone Case,3.0,400.0,50.0,2025-07-01,Cash,1150.0,Low,2025,7
+ORD-0009,Kabir Khan,Pune,Maharashtra,Home & Kitchen,Water Bottle,3.0,450.0,100.0,2025-07-14,Card,1250.0,Low,2025,7
+ORD-0010,Kabir Khan,Chennai,Tamil Nadu,Electronics,Keyboard,1.0,1200.0,50.0,2025-07-25,Upi,1150.0,Low,2025,7
+ORD-0011,Meera Iyer,Bengaluru,Karnataka,Office Supplies,Printer Paper,8.0,380.0,100.0,2025-11-26,Card,2940.0,Medium,2025,11
+ORD-0013,Priya Verma,Chennai,Tamil Nadu,Home & Kitchen,Water Bottle,8.0,450.0,0.0,2025-01-25,Card,3600.0,Medium,2025,1
+ORD-0014,Meera Iyer,Delhi,Delhi,Accessories,Laptop Sleeve,7.0,850.0,100.0,2025-11-02,Cash,5850.0,High,2025,11
+ORD-0015,Ishaan Patel,Mumbai,Maharashtra,Electronics,Headphones,6.0,2200.0,0.0,2025-05-31,Card,13200.0,High,2025,5
+ORD-0016,Kabir Khan,Jaipur,Rajasthan,Electronics,Headphones,3.0,2200.0,0.0,2025-02-24,Card,6600.0,High,2025,2
+ORD-0017,Meera Iyer,Delhi,Delhi,Office Supplies,Printer Paper,1.0,380.0,150.0,2025-06-15,Upi,230.0,Low,2025,6
+ORD-0018,Sara Ali,Pune,Maharashtra,Office Supplies,Office Chair,4.0,6200.0,0.0,2025-05-04,Upi,24800.0,High,2025,5
+ORD-0019,Meera Iyer,Pune,Maharashtra,Accessories,Laptop Sleeve,3.0,850.0,0.0,2025-12-04,Card,2550.0,Medium,2025,12
+ORD-0021,Ananya Das,Jaipur,Rajasthan,Accessories,Laptop Sleeve,4.0,850.0,0.0,2025-02-02,Upi,3400.0,Medium,2025,2
+ORD-0022,Aarav Sharma,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,2.0,3200.0,200.0,2025-11-20,Card,6200.0,High,2025,11
+ORD-0023,Kabir Khan,Pune,Maharashtra,Electronics,Headphones,2.0,2200.0,150.0,2025-05-02,Net Banking,4250.0,Medium,2025,5
+ORD-0024,Neha Singh,Bengaluru,Karnataka,Home & Kitchen,Desk Lamp,4.0,900.0,100.0,2025-07-28,Upi,3500.0,Medium,2025,7
+ORD-0025,Aarav Sharma,Pune,Maharashtra,Accessories,Phone Case,7.0,400.0,100.0,2025-08-28,Upi,2700.0,Medium,2025,8
+ORD-0026,Neha Singh,Mumbai,Maharashtra,Accessories,Phone Case,2.0,400.0,0.0,2025-04-09,Net Banking,800.0,Low,2025,4
+ORD-0028,Ishaan Patel,Pune,Maharashtra,Electronics,Wireless Mouse,2.0,650.0,0.0,2025-03-27,Net Banking,1300.0,Low,2025,3
+ORD-0029,Aarav Sharma,Jaipur,Rajasthan,Home & Kitchen,Desk Lamp,1.0,900.0,0.0,2025-07-14,Net Banking,900.0,Low,2025,7
+ORD-0030,Meera Iyer,Hyderabad,Telangana,Accessories,Phone Case,7.0,400.0,200.0,2025-10-12,Card,2600.0,Medium,2025,10
+ORD-0031,Aarav Sharma,Bengaluru,Karnataka,Office Supplies,Printer Paper,1.0,380.0,150.0,2025-10-05,Cash,230.0,Low,2025,10
+ORD-0032,Priya Verma,Mumbai,Maharashtra,Electronics,Monitor,3.0,9500.0,0.0,2025-09-18,Card,28500.0,High,2025,9
+ORD-0033,Neha Singh,Unknown,Maharashtra,Electronics,Keyboard,7.0,1200.0,0.0,2025-10-19,Upi,8400.0,High,2025,10
+ORD-0034,Ananya Das,Pune,Maharashtra,Accessories,Phone Case,5.0,400.0,0.0,2025-12-09,Card,2000.0,Medium,2025,12
+ORD-0035,Priya Verma,Hyderabad,Telangana,Accessories,Usb Cable,5.0,300.0,100.0,2025-06-11,Upi,1400.0,Low,2025,6
+ORD-0036,Rohan Mehta,Jaipur,Rajasthan,Electronics,Wireless Mouse,4.0,650.0,150.0,2025-05-16,Cash,2450.0,Medium,2025,5
+ORD-0037,Vikram Rao,Pune,Maharashtra,Home & Kitchen,Cookware Set,5.0,2800.0,0.0,2025-08-13,Cash,14000.0,High,2025,8
+ORD-0038,Priya Verma,Mumbai,Maharashtra,Office Supplies,Notebook Pack,3.0,250.0,50.0,2025-03-01,Card,700.0,Low,2025,3
+ORD-0039,Kabir Khan,Hyderabad,Telangana,Office Supplies,Printer Paper,6.0,380.0,0.0,2025-12-18,Net Banking,2280.0,Medium,2025,12
+ORD-0040,Aarav Sharma,Hyderabad,Telangana,Electronics,Wireless Mouse,7.0,650.0,50.0,2025-01-23,Cash,4500.0,Medium,2025,1
+ORD-0041,Ishaan Patel,Delhi,Delhi,Office Supplies,Printer Paper,8.0,380.0,150.0,2025-12-28,Upi,2890.0,Medium,2025,12
+ORD-0042,Vikram Rao,Pune,Maharashtra,Electronics,Keyboard,1.0,1200.0,50.0,2025-10-26,Card,1150.0,Low,2025,10
+ORD-0043,Ananya Das,Kolkata,West Bengal,Home & Kitchen,Mixer Grinder,5.0,3200.0,50.0,2025-01-21,Card,15950.0,High,2025,1
+ORD-0044,Neha Singh,Bengaluru,Karnataka,Electronics,Headphones,7.0,2200.0,150.0,2025-03-21,Card,15250.0,High,2025,3
+ORD-0045,Ishaan Patel,Delhi,Delhi,Accessories,Laptop Sleeve,3.0,850.0,200.0,2025-06-20,Card,2350.0,Medium,2025,6
+ORD-0046,Neha Singh,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,7.0,3200.0,0.0,2025-08-29,Card,22400.0,High,2025,8
+ORD-0047,Neha Singh,Jaipur,Rajasthan,Office Supplies,Office Chair,4.0,6200.0,0.0,2025-01-13,Net Banking,24800.0,High,2025,1
+ORD-0048,Vikram Rao,Chennai,Tamil Nadu,Office Supplies,Notebook Pack,5.0,250.0,50.0,2025-11-25,Net Banking,1200.0,Low,2025,11
+ORD-0049,Kabir Khan,Chennai,Tamil Nadu,Electronics,Wireless Mouse,5.0,650.0,0.0,2025-10-25,Upi,3250.0,Medium,2025,10
+ORD-0051,Aarav Sharma,Kolkata,West Bengal,Home & Kitchen,Cookware Set,1.0,2800.0,200.0,2025-08-12,Card,2600.0,Medium,2025,8
+ORD-0052,Priya Verma,Chennai,Tamil Nadu,Accessories,Laptop Sleeve,6.0,850.0,150.0,2025-06-10,Cash,4950.0,Medium,2025,6
+ORD-0053,Vikram Rao,Hyderabad,Telangana,Accessories,Phone Case,7.0,400.0,200.0,2025-06-01,Card,2600.0,Medium,2025,6
+ORD-0054,Kabir Khan,Bengaluru,Karnataka,Accessories,Power Bank,3.0,1600.0,150.0,2025-10-19,Net Banking,4650.0,Medium,2025,10
+ORD-0055,Sara Ali,Mumbai,Maharashtra,Office Supplies,Office Chair,4.0,6200.0,0.0,2025-10-24,Cash,24800.0,High,2025,10
+ORD-0056,Rohan Mehta,Jaipur,Rajasthan,Accessories,Power Bank,4.0,1600.0,150.0,2025-08-31,Upi,6250.0,High,2025,8
+ORD-0057,Neha Singh,Hyderabad,Telangana,Office Supplies,Notebook Pack,4.0,250.0,200.0,2025-06-08,Card,800.0,Low,2025,6
+ORD-0058,Priya Verma,Delhi,Delhi,Electronics,Wireless Mouse,4.0,650.0,100.0,2025-11-09,Net Banking,2500.0,Medium,2025,11
+ORD-0059,Rohan Mehta,Kolkata,West Bengal,Home & Kitchen,Desk Lamp,8.0,900.0,100.0,2025-05-05,Upi,7100.0,High,2025,5
+ORD-0060,Meera Iyer,Pune,Maharashtra,Accessories,Usb Cable,3.0,300.0,200.0,2025-09-23,Upi,700.0,Low,2025,9
+ORD-0061,Vikram Rao,Bengaluru,Karnataka,Electronics,Monitor,3.0,9500.0,100.0,2025-12-08,Cash,28400.0,High,2025,12
+ORD-0063,Priya Verma,Bengaluru,Karnataka,Office Supplies,Pen Set,4.0,180.0,50.0,2025-08-14,Cash,670.0,Low,2025,8
+ORD-0064,Rohan Mehta,Bengaluru,Karnataka,Office Supplies,Office Chair,6.0,6200.0,150.0,2025-02-11,Card,37050.0,High,2025,2
+ORD-0065,Ishaan Patel,Bengaluru,Karnataka,Accessories,Usb Cable,4.0,300.0,0.0,2025-08-01,Cash,1200.0,Low,2025,8
+ORD-0066,Sara Ali,Jaipur,Rajasthan,Accessories,Laptop Sleeve,4.0,850.0,100.0,2025-07-19,Upi,3300.0,Medium,2025,7
+ORD-0067,Ishaan Patel,Kolkata,West Bengal,Accessories,Laptop Sleeve,6.0,850.0,50.0,2025-07-19,Card,5050.0,High,2025,7
+ORD-0068,Ishaan Patel,Jaipur,Rajasthan,Home & Kitchen,Cookware Set,7.0,2800.0,100.0,2025-01-15,Cash,19500.0,High,2025,1
+ORD-0069,Aarav Sharma,Kolkata,West Bengal,Home & Kitchen,Desk Lamp,3.0,900.0,150.0,2025-10-01,Net Banking,2550.0,Medium,2025,10
+ORD-0070,Aarav Sharma,Mumbai,Maharashtra,Electronics,Monitor,3.0,9500.0,100.0,2025-04-04,Cash,28400.0,High,2025,4
+ORD-0071,Ishaan Patel,Kolkata,West Bengal,Office Supplies,Printer Paper,8.0,380.0,50.0,2025-06-22,Cash,2990.0,Medium,2025,6
+ORD-0072,Aarav Sharma,Kolkata,West Bengal,Office Supplies,Notebook Pack,8.0,250.0,0.0,2025-10-04,Cash,2000.0,Medium,2025,10
+ORD-0073,Aarav Sharma,Bengaluru,Karnataka,Electronics,Wireless Mouse,1.0,650.0,0.0,2025-04-13,Card,650.0,Low,2025,4
+ORD-0074,Meera Iyer,Bengaluru,Karnataka,Home & Kitchen,Desk Lamp,2.0,900.0,150.0,2025-04-22,Cash,1650.0,Low,2025,4
+ORD-0075,Sara Ali,Chennai,Tamil Nadu,Home & Kitchen,Mixer Grinder,3.0,3200.0,50.0,2025-02-25,Upi,9550.0,High,2025,2
+ORD-0076,Neha Singh,Hyderabad,Telangana,Accessories,Power Bank,4.0,1600.0,0.0,2025-10-31,Upi,6400.0,High,2025,10
+ORD-0077,Ananya Das,Hyderabad,Telangana,Electronics,Wireless Mouse,6.0,650.0,150.0,2025-08-08,Upi,3750.0,Medium,2025,8
+ORD-0078,Ananya Das,Chennai,Tamil Nadu,Electronics,Monitor,8.0,9500.0,0.0,2025-08-10,Net Banking,76000.0,High,2025,8
+ORD-0079,Meera Iyer,Delhi,Delhi,Accessories,Usb Cable,5.0,300.0,150.0,2025-10-03,Net Banking,1350.0,Low,2025,10
+ORD-0080,Meera Iyer,Kolkata,West Bengal,Office Supplies,Office Chair,4.0,6200.0,0.0,2025-05-23,Card,24800.0,High,2025,5

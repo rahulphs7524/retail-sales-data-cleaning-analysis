@@ -1,0 +1,83 @@
+Order_ID,Customer_Name,City,State,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Order_Date,Payment_Type
+ORD-0001,Priya Verma,Pune,Maharashtra,Electronics,Headphones,4,2200,0,2025-03-13,UPI
+ORD-0002,Vikram Rao,Kolkata,West Bengal,Electronics,Wireless Mouse,2,650,0,2025-04-30,UPI
+ORD-0003,  AARAV SHARMA  ,Bengaluru,Karnataka,Accessories,USB Cable,8,300,150,2025-05-23,Card
+ORD-0004,Priya Verma,Kolkata,West Bengal,Office Supplies,Office Chair,3,6200,0,2025-06-22,UPI
+ORD-0005,Aarav Sharma,  KOLKATA ,West Bengal,Electronics,Headphones,6,2200,150,2025-05-16,Net Banking
+ORD-0006,Ananya Das,Pune,Maharashtra,Accessories,Laptop Sleeve,5,850,200,2025-11-13,Card
+ORD-0007,Priya Verma,Pune,Maharashtra,Electronics,Keyboard,not available,1200,0,2025-04-30,Net Banking
+ORD-0008,Neha Singh,Hyderabad,Telangana,Accessories,Phone Case,3,400,50,2025-07-01,Cash
+ORD-0009,  KABIR KHAN  ,Pune,Maharashtra,Home & Kitchen,Water Bottle,3,450,100,2025-07-14,Card
+ORD-0010,Kabir Khan,Chennai,Tamil Nadu,Electronics,Keyboard,1,1200,50,2025-07-25,UPI
+ORD-0011,Meera Iyer,Bengaluru,Karnataka,Office Supplies,Printer Paper,8,380,100,2025-11-26,Card
+ORD-0012,Ishaan Patel,Hyderabad,Telangana,Home & Kitchen,Water Bottle,5,,200,2025-10-27,Net Banking
+ORD-0013,Priya Verma,Chennai,Tamil Nadu,Home & Kitchen,Water Bottle,8,450,0,2025-01-25,Card
+ORD-0014,Meera Iyer,  DELHI ,Delhi,Accessories,Laptop Sleeve,7,850,100,2025-11-02,Cash
+ORD-0015,Ishaan Patel,Mumbai,Maharashtra,Electronics,Headphones,6,2200,0,2025-05-31,Card
+ORD-0016,Kabir Khan,Jaipur,Rajasthan,Electronics,Headphones,3,2200,,2025-02-24,Card
+ORD-0017,Meera Iyer,Delhi,Delhi,Office Supplies,Printer Paper,1,380,150,2025-06-15,UPI
+ORD-0018,  SARA ALI  ,Pune,Maharashtra,Office Supplies,Office Chair,4,6200,0,2025-05-04,UPI
+ORD-0019,Meera Iyer,Pune,Maharashtra,Accessories,Laptop Sleeve,3,850,0,2025-12-04,Card
+ORD-0020,Ishaan Patel,Hyderabad,Telangana,Accessories,USB Cable,4,300,200,invalid-date,Cash
+ORD-0021,Ananya Das,Jaipur,Rajasthan,Accessories,Laptop Sleeve,4,850,0,2025-02-02,UPI
+ORD-0022,Aarav Sharma,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,2,3200,200,2025-11-20,Card
+ORD-0023,Kabir Khan,  PUNE ,Maharashtra,Electronics,Headphones,2,2200,150,2025-05-02,Net Banking
+ORD-0024,Neha Singh,Bengaluru,Karnataka,Home & Kitchen,Desk Lamp,4,900,100,2025-07-28,UPI
+ORD-0025,Aarav Sharma,Pune,Maharashtra,Accessories,Phone Case,7,400,100,2025-08-28,UPI
+ORD-0026,Neha Singh,Mumbai,Maharashtra,Accessories,Phone Case,2,400,0,2025-04-09,Net Banking
+ORD-0027,Priya Verma,Delhi,Delhi,Accessories,USB Cable,not available,300,100,2025-05-08,Net Banking
+ORD-0028,Ishaan Patel,Pune,Maharashtra,Electronics,Wireless Mouse,2,650,0,2025-03-27,Net Banking
+ORD-0029,Aarav Sharma,Jaipur,Rajasthan,Home & Kitchen,Desk Lamp,1,900,0,2025-07-14,Net Banking
+ORD-0030,  MEERA IYER  ,Hyderabad,Telangana,Accessories,Phone Case,7,400,200,2025-10-12,Card
+ORD-0031,Aarav Sharma,Bengaluru,Karnataka,Office Supplies,Printer Paper,1,380,150,2025-10-05,Cash
+ORD-0032,Priya Verma,Mumbai,Maharashtra,Electronics,Monitor,3,9500,0,2025-09-18,Card
+ORD-0033,Neha Singh,,Maharashtra,Electronics,Keyboard,7,1200,0,2025-10-19,UPI
+ORD-0034,Ananya Das,Pune,Maharashtra,Accessories,Phone Case,5,400,0,2025-12-09,Card
+ORD-0035,Priya Verma,Hyderabad,Telangana,Accessories,USB Cable,5,300,100,2025-06-11,UPI
+ORD-0036,Rohan Mehta,Jaipur,Rajasthan,Electronics,Wireless Mouse,4,650,150,2025-05-16,Cash
+ORD-0037,Vikram Rao,Pune,Maharashtra,Home & Kitchen,Cookware Set,5,2800,0,2025-08-13,Cash
+ORD-0038,Priya Verma,  MUMBAI ,Maharashtra,Office Supplies,Notebook Pack,3,250,50,2025-03-01,Card
+ORD-0039,Kabir Khan,Hyderabad,Telangana,Office Supplies,Printer Paper,6,380,0,2025-12-18,Net Banking
+ORD-0040,Aarav Sharma,Hyderabad,Telangana,Electronics,Wireless Mouse,7,650,50,2025-01-23,Cash
+ORD-0041,Ishaan Patel,Delhi,Delhi,Office Supplies,Printer Paper,8,380,150,2025-12-28,UPI
+ORD-0042,Vikram Rao,Pune,Maharashtra,Electronics,Keyboard,1,1200,50,2025-10-26,Card
+ORD-0043,Ananya Das,Kolkata,West Bengal,Home & Kitchen,Mixer Grinder,5,3200,50,2025-01-21,Card
+ORD-0044,Neha Singh,Bengaluru,Karnataka,Electronics,Headphones,7,2200,150,2025-03-21,Card
+ORD-0045,  ISHAAN PATEL  ,Delhi,Delhi,Accessories,Laptop Sleeve,3,850,200,2025-06-20,Card
+ORD-0046,Neha Singh,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,7,3200,0,2025-08-29,Card
+ORD-0047,Neha Singh,Jaipur,Rajasthan,Office Supplies,Office Chair,4,6200,0,2025-01-13,Net Banking
+ORD-0048,Vikram Rao,Chennai,Tamil Nadu,Office Supplies,Notebook Pack,5,250,50,2025-11-25,Net Banking
+ORD-0049,Kabir Khan,Chennai,Tamil Nadu,Electronics,Wireless Mouse,5,650,0,2025-10-25,UPI
+ORD-0050,Vikram Rao,Pune,Maharashtra,Accessories,Phone Case,6,,100,2025-11-07,UPI
+ORD-0051,Aarav Sharma,Kolkata,West Bengal,Home & Kitchen,Cookware Set,1,2800,200,2025-08-12,Card
+ORD-0052,Priya Verma,Chennai,Tamil Nadu,Accessories,Laptop Sleeve,6,850,150,2025-06-10,Cash
+ORD-0053,Vikram Rao,Hyderabad,Telangana,Accessories,Phone Case,7,400,200,2025-06-01,Card
+ORD-0054,Kabir Khan,Bengaluru,Karnataka,Accessories,Power Bank,3,1600,150,2025-10-19,Net Banking
+ORD-0055,Sara Ali,Mumbai,Maharashtra,Office Supplies,Office Chair,4,6200,,2025-10-24,Cash
+ORD-0056,Rohan Mehta,Jaipur,Rajasthan,Accessories,Power Bank,4,1600,150,2025-08-31,UPI
+ORD-0057,Neha Singh,Hyderabad,Telangana,Office Supplies,Notebook Pack,4,250,200,2025-06-08,Card
+ORD-0058,Priya Verma,Delhi,Delhi,Electronics,Wireless Mouse,4,650,100,2025-11-09,Net Banking
+ORD-0059,Rohan Mehta,Kolkata,West Bengal,Home & Kitchen,Desk Lamp,8,900,100,2025-05-05,UPI
+ORD-0060,Meera Iyer,Pune,Maharashtra,Accessories,USB Cable,3,300,200,2025-09-23,UPI
+ORD-0061,Vikram Rao,Bengaluru,Karnataka,Electronics,Monitor,3,9500,100,2025-12-08,Cash
+ORD-0062,Meera Iyer,Jaipur,Rajasthan,Accessories,Power Bank,3,1600,200,invalid-date,Cash
+ORD-0063,Priya Verma,Bengaluru,Karnataka,Office Supplies,Pen Set,4,180,50,2025-08-14,Cash
+ORD-0064,Rohan Mehta,Bengaluru,Karnataka,Office Supplies,Office Chair,6,6200,150,2025-02-11,Card
+ORD-0065,Ishaan Patel,Bengaluru,Karnataka,Accessories,USB Cable,4,300,0,2025-08-01,Cash
+ORD-0066,Sara Ali,Jaipur,Rajasthan,Accessories,Laptop Sleeve,4,850,100,2025-07-19,UPI
+ORD-0067,Ishaan Patel,Kolkata,West Bengal,Accessories,Laptop Sleeve,6,850,50,2025-07-19,Card
+ORD-0068,Ishaan Patel,Jaipur,Rajasthan,Home & Kitchen,Cookware Set,7,2800,100,2025-01-15,Cash
+ORD-0069,Aarav Sharma,Kolkata,West Bengal,Home & Kitchen,Desk Lamp,3,900,150,2025-10-01,Net Banking
+ORD-0070,Aarav Sharma,Mumbai,Maharashtra,Electronics,Monitor,3,9500,100,2025-04-04,Cash
+ORD-0071,Ishaan Patel,Kolkata,West Bengal,Office Supplies,Printer Paper,8,380,50,2025-06-22,Cash
+ORD-0072,Aarav Sharma,Kolkata,West Bengal,Office Supplies,Notebook Pack,8,250,0,2025-10-04,Cash
+ORD-0073,Aarav Sharma,Bengaluru,Karnataka,Electronics,Wireless Mouse,1,650,0,2025-04-13,Card
+ORD-0074,Meera Iyer,Bengaluru,Karnataka,Home & Kitchen,Desk Lamp,2,900,150,2025-04-22,Cash
+ORD-0075,Sara Ali,Chennai,Tamil Nadu,Home & Kitchen,Mixer Grinder,3,3200,50,2025-02-25,UPI
+ORD-0076,Neha Singh,Hyderabad,Telangana,Accessories,Power Bank,4,1600,0,2025-10-31,UPI
+ORD-0077,Ananya Das,Hyderabad,Telangana,Electronics,Wireless Mouse,6,650,150,2025-08-08,UPI
+ORD-0078,Ananya Das,Chennai,Tamil Nadu,Electronics,Monitor,8,9500,0,2025-08-10,Net Banking
+ORD-0079,Meera Iyer,Delhi,Delhi,Accessories,USB Cable,5,300,150,2025-10-03,Net Banking
+ORD-0080,Meera Iyer,Kolkata,West Bengal,Office Supplies,Office Chair,4,6200,0,2025-05-23,Card
+ORD-0010,Kabir Khan,Chennai,Tamil Nadu,Electronics,Keyboard,1,1200,50,2025-07-25,UPI
+ORD-0041,Ishaan Patel,Delhi,Delhi,Office Supplies,Printer Paper,8,380,150,2025-12-28,UPI

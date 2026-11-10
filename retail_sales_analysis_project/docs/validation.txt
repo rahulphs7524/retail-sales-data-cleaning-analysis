@@ -1,0 +1,58 @@
+Run status: SUCCESS
+Starting Retail Sales Data Cleaning & Analysis...
+\n==========================================================
+             RETAIL SALES ANALYSIS REPORT
+==========================================================
+Orders analysed: 74
+Duplicate orders removed: 2
+Invalid rows removed: 6
+Total sales: Rs. 602930.0
+Average order value: Rs. 8147.7
+Highest order value: Rs. 76000.0
+Lowest order value: Rs. 230.0
+Sales standard deviation: 11732.72
+\n--- SALES BY CITY ---
+     City  Total_Sales
+Bengaluru     104640.0
+  Chennai      99700.0
+   Mumbai      96400.0
+  Kolkata      95990.0
+     Pune      67550.0
+   Jaipur      67200.0
+Hyderabad      47880.0
+    Delhi      15170.0
+  Unknown       8400.0
+\n--- SALES BY PRODUCT CATEGORY ---
+Product_Category  Total_Sales
+     Electronics     252850.0
+ Office Supplies     171780.0
+  Home & Kitchen     110750.0
+     Accessories      67550.0
+\n--- ORDERS BY PAYMENT TYPE ---
+Payment_Type  Order_Count
+        Card           25
+         Upi           20
+        Cash           16
+ Net Banking           13
+\n--- MONTH-WISE SALES ---
+ Order_Month  Total_Sales
+           1      68350.0
+           2      56600.0
+           3      26050.0
+           4      32800.0
+           5      91900.0
+           6      33920.0
+           7      16300.0
+           8     129570.0
+           9      29200.0
+          10      57380.0
+          11      22740.0
+          12      38120.0
+\n--- PRODUCT CATEGORY STATISTICS ---
+                    min      max  count          mean
+Product_Category                                     
+Electronics       650.0  76000.0     21  12040.476190
+Office Supplies   230.0  37050.0     17  10104.705882
+Home & Kitchen    900.0  22400.0     14   7910.714286
+Accessories       700.0   6400.0     22   3070.454545
+\nAll cleaned data and summary reports were saved in the outputs folder.
